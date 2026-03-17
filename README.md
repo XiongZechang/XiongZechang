@@ -1,7 +1,7 @@
 ## Hi there. I'm Zechang Xiong 👋
 
 ## About me
-- 🎓 Beijing Jiaotong University
+- 🎓 I am currently a master's student.
 - 🔬 Research Interests: Multimodal Learning, Multimodal Emotion Recognition.
 
 ## GitHub Stats
