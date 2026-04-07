@@ -5,4 +5,4 @@
 - 🔬 Research Interests: Multimodal Learning, Multimodal Emotion Recognition.
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiongZechang&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zechang-Xiong&show_icons=true&theme=transparent)
