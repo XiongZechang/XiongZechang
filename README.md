@@ -25,10 +25,6 @@ I am a master's student working on multimodal learning, with a particular focus 
 - Evidential Uncertainty Modeling
 - Graph Neural Networks for Multimodal Learning
 
-## 🚀 Current Focus
-
-I am currently interested in developing reliable multimodal learning methods that explicitly model uncertainty and improve robustness under noisy, incomplete, or conflicting multimodal conditions.
-
 ## 📊 GitHub Stats
 
 <p align="center">
